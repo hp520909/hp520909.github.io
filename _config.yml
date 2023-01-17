@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: hp520909
+title: ShmilyKK's Blog
 brief-intro: Java / C# / Python
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp520909.github.io/" # the base hostname & protocol for your site
@@ -17,7 +17,7 @@ permalink: /:year/:month/:day/:title/
 github_username: hp520909
 email: hp520909@gmail.com
 
-description_footer: 一些学习和思考, 希望可以做好一些事。                    
+description_footer: 君子慎独，不欺暗室。 卑以自牧，含章可贞。                    
 
 # comments
 # two ways to comment, only choose one, and use your own short name
